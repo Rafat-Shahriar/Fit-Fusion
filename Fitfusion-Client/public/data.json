@@ -1,0 +1,320 @@
+[
+    {
+       
+        "email": "farhadhossenfarhad@gmail.com",
+        "day": "Sat",
+        "totalCal": {
+            "$numberInt": "1060"
+        },
+        "meals": {
+            "name": [
+                "Chicken Breast",
+                "Broccoli",
+                "Salmon",
+                "Salmon",
+                "Brown Rice",
+                "Salmon"
+            ],
+            "calories": [
+                {
+                    "$numberInt": "165"
+                },
+                {
+                    "$numberInt": "55"
+                },
+                {
+                    "$numberInt": "208"
+                },
+                {
+                    "$numberInt": "208"
+                },
+                {
+                    "$numberInt": "216"
+                },
+                {
+                    "$numberInt": "208"
+                }
+            ],
+            "protein": [
+                {
+                    "$numberInt": "31"
+                },
+                {
+                    "$numberDouble": "3.7"
+                },
+                {
+                    "$numberInt": "22"
+                },
+                {
+                    "$numberInt": "22"
+                },
+                {
+                    "$numberInt": "5"
+                },
+                {
+                    "$numberInt": "22"
+                }
+            ],
+            "carbs": [
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberDouble": "11.2"
+                },
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberInt": "45"
+                },
+                {
+                    "$numberInt": "0"
+                }
+            ],
+            "fat": [
+                {
+                    "$numberDouble": "3.6"
+                },
+                {
+                    "$numberDouble": "0.6"
+                },
+                {
+                    "$numberInt": "13"
+                },
+                {
+                    "$numberInt": "13"
+                },
+                {
+                    "$numberDouble": "1.8"
+                },
+                {
+                    "$numberInt": "13"
+                }
+            ],
+            "totalCal": {
+                "$numberInt": "1060"
+            },
+            "saved": true,
+            "isEdited": false
+        },
+        "weekNumber": {
+            "$numberInt": "49"
+        }
+    },
+    {
+       
+        "email": "farhadhossenfarhad@gmail.com",
+        "day": "Sun",
+        "totalCal": {
+            "$numberInt": "1060"
+        },
+        "meals": {
+            "name": [
+                "Chicken Breast",
+                "Broccoli",
+                "Salmon",
+                "Salmon",
+                "Brown Rice",
+                "Salmon"
+            ],
+            "calories": [
+                {
+                    "$numberInt": "165"
+                },
+                {
+                    "$numberInt": "55"
+                },
+                {
+                    "$numberInt": "208"
+                },
+                {
+                    "$numberInt": "208"
+                },
+                {
+                    "$numberInt": "216"
+                },
+                {
+                    "$numberInt": "208"
+                }
+            ],
+            "protein": [
+                {
+                    "$numberInt": "31"
+                },
+                {
+                    "$numberDouble": "3.7"
+                },
+                {
+                    "$numberInt": "22"
+                },
+                {
+                    "$numberInt": "22"
+                },
+                {
+                    "$numberInt": "5"
+                },
+                {
+                    "$numberInt": "22"
+                }
+            ],
+            "carbs": [
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberDouble": "11.2"
+                },
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberInt": "45"
+                },
+                {
+                    "$numberInt": "0"
+                }
+            ],
+            "fat": [
+                {
+                    "$numberDouble": "3.6"
+                },
+                {
+                    "$numberDouble": "0.6"
+                },
+                {
+                    "$numberInt": "13"
+                },
+                {
+                    "$numberInt": "13"
+                },
+                {
+                    "$numberDouble": "1.8"
+                },
+                {
+                    "$numberInt": "13"
+                }
+            ],
+            "totalCal": {
+                "$numberInt": "1060"
+            },
+            "saved": true,
+            "isEdited": false
+        },
+        "weekNumber": {
+            "$numberInt": "50"
+        }
+    },
+    {
+       
+        "email": "farhadhossenfarhad@gmail.com",
+        "day": "Wed",
+        "totalCal": {
+            "$numberInt": "1060"
+        },
+        "meals": {
+            "name": [
+                "Chicken Breast",
+                "Broccoli",
+                "Salmon",
+                "Salmon",
+                "Brown Rice",
+                "Salmon"
+            ],
+            "calories": [
+                {
+                    "$numberInt": "165"
+                },
+                {
+                    "$numberInt": "55"
+                },
+                {
+                    "$numberInt": "208"
+                },
+                {
+                    "$numberInt": "208"
+                },
+                {
+                    "$numberInt": "216"
+                },
+                {
+                    "$numberInt": "208"
+                }
+            ],
+            "protein": [
+                {
+                    "$numberInt": "31"
+                },
+                {
+                    "$numberDouble": "3.7"
+                },
+                {
+                    "$numberInt": "22"
+                },
+                {
+                    "$numberInt": "22"
+                },
+                {
+                    "$numberInt": "5"
+                },
+                {
+                    "$numberInt": "22"
+                }
+            ],
+            "carbs": [
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberDouble": "11.2"
+                },
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberInt": "0"
+                },
+                {
+                    "$numberInt": "45"
+                },
+                {
+                    "$numberInt": "0"
+                }
+            ],
+            "fat": [
+                {
+                    "$numberDouble": "3.6"
+                },
+                {
+                    "$numberDouble": "0.6"
+                },
+                {
+                    "$numberInt": "13"
+                },
+                {
+                    "$numberInt": "13"
+                },
+                {
+                    "$numberDouble": "1.8"
+                },
+                {
+                    "$numberInt": "13"
+                }
+            ],
+            "totalCal": {
+                "$numberInt": "1060"
+            },
+            "saved": true,
+            "isEdited": false
+        },
+        "weekNumber": {
+            "$numberInt": "51"
+        }
+    }
+]
